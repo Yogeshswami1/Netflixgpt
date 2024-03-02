@@ -17,7 +17,7 @@ export const SUPPORTED_LANGUAGES = [{indentifier: "en", name: "English"},{indent
 
 // export const OPEN_AI_KEY = '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'
 
-export const OPEN_AI_KEY = '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'
+// export const OPEN_AI_KEY = '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'
 
 
-
+export const OPEN_AI_KEY = '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'
